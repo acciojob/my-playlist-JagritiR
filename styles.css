@@ -8,8 +8,11 @@ h1{
 h2{
 	text-align: center;
 }
-ul, a, li{
+a{
 	text-decoration-line: none;
+	
+}
+li{
 	list-style-type: none;
 }
 .player_one{
