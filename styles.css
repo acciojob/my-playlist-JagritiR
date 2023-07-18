@@ -30,3 +30,11 @@ video{
 	border: 1px solid black;
 	margin-bottom: 20px;
 }
+.player_three {
+	margin: auto;
+	width: 60%;
+	background-color: #FFFFFF;
+	text-align: center;
+	border: 1px solid black;
+	margin-bottom: 20px;
+}
